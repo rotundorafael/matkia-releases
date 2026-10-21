@@ -1,10 +1,10 @@
 {
   "normal": {
-    "versionCode": 10,
+    "versionCode": 12,
     "versionName": "1.0.0",
-    "url": "https://github.com/rotundorafael/matkia-releases/releases/download/v10-normal/matkia-normal-10.apk",
-    "md5": "b5e4c953e1edf7c3b536529e2ea71671",
-    "notes": "Prueba del sistema de publicación (sin actualizador)",
-    "publishedAt": "2026-10-16T11:45:33.562Z"
+    "url": "https://github.com/rotundorafael/matkia-releases/releases/download/v12-prueba/matkia-test-12.apk",
+    "md5": "b528de694555a744f8ee62f4eeee8525",
+    "notes": "PRUEBA del actualizador",
+    "publishedAt": "2026-10-21T18:48:25.237Z"
   }
 }
