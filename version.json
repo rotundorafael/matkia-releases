@@ -6,5 +6,13 @@
     "md5": "cd9eeee6f00cbe00a8ef5ad79432f733",
     "notes": "Logo nuevo, avance y retroceso en películas, cambio de canal por foco",
     "publishedAt": "2026-11-10T09:19:30.056Z"
+  },
+  "kiosk": {
+    "versionCode": 14,
+    "versionName": "1.0.0",
+    "url": "https://github.com/rotundorafael/matkia-releases/releases/download/v14-kiosk/matkia-kiosk-14.apk",
+    "md5": "5ae23c0cd8b177cbb0cc630fc435da56",
+    "notes": "Logo nuevo, avance y retroceso en películas, cambio de canal por foco",
+    "publishedAt": "2026-11-10T09:20:05.275Z"
   }
 }
