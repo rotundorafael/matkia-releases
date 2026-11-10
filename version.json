@@ -1,10 +1,10 @@
 {
   "normal": {
-    "versionCode": 10,
+    "versionCode": 13,
     "versionName": "1.0.0",
-    "url": "https://github.com/rotundorafael/matkia-releases/releases/download/v10-normal/matkia-normal-10.apk",
-    "md5": "b5e4c953e1edf7c3b536529e2ea71671",
-    "notes": "Prueba del sistema de publicación (sin actualizador)",
-    "publishedAt": "2026-10-16T11:45:33.562Z"
+    "url": "https://github.com/rotundorafael/matkia-releases/releases/download/v13-normal/matkia-normal-13.apk",
+    "md5": "cd9eeee6f00cbe00a8ef5ad79432f733",
+    "notes": "Logo nuevo, avance y retroceso en películas, cambio de canal por foco",
+    "publishedAt": "2026-11-10T09:19:30.056Z"
   }
 }
